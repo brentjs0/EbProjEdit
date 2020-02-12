@@ -9,3 +9,4 @@ EbProjEditor/META-INF/MANIFEST.MF
 EbProjEditor/META-INF/maven/org.yaml/snakeyaml/pom.properties
 EbProjEditor/META-INF/maven/org.yaml/snakeyaml/pom.xml
 Vagrantfile
+/out
